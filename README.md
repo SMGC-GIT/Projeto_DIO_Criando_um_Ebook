@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" e o "COPILOT" para aprimorar de forma lúdica, o conteúdo 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento. A criação deste E-book me deu a possibilidade de utilizar o GitHub, pois até então não sabia como utilizá-lo, e foi exatamente este o motivo de eu escolher este tema para o desafio.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/SMGC-GIT/lab-natty-or-not/blob/ba12acaef56f43f3344e46b60d9032d4caeeabe5/EBook%20-%20Resumo%20do%20Livro%20A%20Genese.pdf)
-
+[LINK PARA O E-BOOK AQUI](https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Ebook/blob/main/Projeto_DIO_Criando_um_Ebook.pdf)
+ 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Mas mostra também que a IA sozinha não traz a informação se um humano não souber como solicitá-la.
